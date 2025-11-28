@@ -7,8 +7,7 @@ const nextConfig: NextConfig = {
         unoptimized: true
     },
     experimental: {
-        serverComponentsHmrCache: false,
-        turbo: false
+        serverComponentsHmrCache: false
     }
 };
 
